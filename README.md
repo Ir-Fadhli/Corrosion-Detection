@@ -9,6 +9,7 @@ The following step is to establish the HSV color range that depicts corrosion by
 A non-linear filter is employed to execute the morphological operation of dilation to cope with holes in corrosion-prone areas. The operation is mathematically stated as follows:
 
 dilate (f, s) = θ(c, 1)
+
 c = f x s
 
 where θ the threshold operation, f the mask of the input image, s the structural element.
