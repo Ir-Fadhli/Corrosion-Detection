@@ -1,4 +1,4 @@
-# Corrosion-Detection-with-Computer-Vision
+# Corrosion-Detection
 
 This approach uses Python and OpenCV to track corrosion depending on its color
 
